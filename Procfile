@@ -1,1 +1,1 @@
-web: webpack-dev-server --mode development --open --hot
+web: node server.js
